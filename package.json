@@ -27,7 +27,7 @@
     },
     "homepage": "https://github.com/FuriousGamer414/QueenAmdi#readme",
     "dependencies": {
-        "@adiwajshing/baileys": "git+https://github.com/FuriousGamer414/BaileysForQueenAmdi.git#3e8a609ad9779ee2ac1726bd63c9736f69231c48",
+        "@adiwajshing/baileys": "git+https://github.com/AN-Tech-Crew/BaileysForQueenAmdi.git#3e8a609ad9779ee2ac1726bd63c9736f69231c48",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@blackamda/song_video_dl": "^1.1.0",
         "@blackamda/telegram-image-url": "^1.0.0",
