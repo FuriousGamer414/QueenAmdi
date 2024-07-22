@@ -5,7 +5,7 @@
 * @version 4.0.7
 * @file  deleteMsg.js - QueenAmdi bot/group/user message remover
 
-© 2022 Black Amda, ANTECH. All rights reserved.
+© 2022 Debraj Chanda, k0mraid. All rights reserved.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.*/
 
