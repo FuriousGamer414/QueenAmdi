@@ -1,8 +1,7 @@
 /**
 * @project_name Queen Amdi [WA Multi-device]
-* @author BlackAmda <https://github.com/BlackAmda>
+* @author Debraj Chanda
 * @description A WhatsApp based 3ʳᵈ party application that provide many services with a real-time automated conversational experience
-* @link <https://github.com/BlackAmda/QueenAmdi>
 * @version 4.0.7
 * @file  misc.js - QueenAmdi miscellaneous commands
 
