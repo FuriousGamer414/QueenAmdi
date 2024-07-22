@@ -32,7 +32,7 @@
 
 **[» Queen Amdi announcement group](https://chat.whatsapp.com/InYoHlt2aURC3Rie3l8ulR)**
 
-## 🐝 Queen Amdi Team - A.N.Tech *[ Since 2016 ]*
+## 🐝 Queen Amdi Team - A.N.Tech *[ Since 2022 ]*
 
 | <a href="https://amdaniwasa.com"><img src="https://avatars.githubusercontent.com/u/110168231?v=4" width=80 height=80></a> | <a href="https://www.instagram.com/sinhalaya_official_/"><img src="https://avatars.githubusercontent.com/u/89065560?v=4" width=80 height=80></a> | <a href="https://www.instagram.com/saji_x.x_4/"><img src="https://avatars.githubusercontent.com/u/88334967?v=4" width=80 height=80></a> |
 |---|---|---|
